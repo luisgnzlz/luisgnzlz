@@ -30,6 +30,14 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisgnzlz&theme=dark&show_icons=true&count_private=true)
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgnzlz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luisgnzlz&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [twitter]: https://twitter.com/luisgnzlz91

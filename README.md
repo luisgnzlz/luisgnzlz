@@ -9,8 +9,6 @@
 - 👨🏻‍💻 I’m currently working with Swift to develop iOS applications!
 - 😎 Focusing on contributing more to Open Source projects
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Swift" width="26px"
@@ -26,13 +24,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 <br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
   
 ![Anurag's github stats](https://github-readme-stats-sooty-one.vercel.app/api?username=luisgnzlz&theme=dark&show_icons=true&count_private=true)
 
-</details>
 
 <br />
 

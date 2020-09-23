@@ -1,17 +1,13 @@
 ### Connect with me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/luisgnzlz91?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluisgnzlz&screen_name=luisgnzlz91)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 ## I'm an iOS Engineer
 
 - 👨🏻‍💻 I’m currently working with Swift to develop iOS applications!
 - 😎 Focusing on contributing more to Open Source projects
-
-### Connect with me:
-
-[<img align="left" alt="luisgnzlz91 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="luisgnzlz91 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="luisgnzlz91 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 

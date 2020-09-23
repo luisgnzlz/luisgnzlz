@@ -1,4 +1,4 @@
-### Hi, I'm Luis
+### Connect with me:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/luisgnzlz91?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluisgnzlz&screen_name=luisgnzlz91)
 
@@ -29,15 +29,15 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 <br />
+<br />
 
 ![Anurag's github stats](https://github-readme-stats-sooty-one.vercel.app/api?username=luisgnzlz&theme=dark&show_icons=true&count_private=true)
 
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgnzlz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgnzlz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luisgnzlz&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [twitter]: https://twitter.com/luisgnzlz91

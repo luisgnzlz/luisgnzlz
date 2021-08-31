@@ -24,9 +24,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 <br />
-  
-![Anurag's github stats](https://github-readme-stats-sooty-one.vercel.app/api?username=luisgnzlz&theme=dark&show_icons=true&count_private=true)
-
 
 <br />
 

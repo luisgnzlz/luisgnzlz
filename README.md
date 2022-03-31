@@ -1,7 +1,6 @@
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 ## I'm an iOS Engineer
@@ -27,5 +26,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ---
 
 [twitter]: https://twitter.com/luisgnzlz91
-[instagram]: https://instagram.com/luis_gnzlz91
 [linkedin]: https://www.linkedin.com/in/luis-gonzalez-b14960139/
